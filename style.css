@@ -6,6 +6,7 @@
 :root {
   /* background color */
   --bg-primary-color: #0c0c0c;
+  --bg-secondary-color: #000000;
 
   /* text color */
   --text-color: #f3f0f0;
